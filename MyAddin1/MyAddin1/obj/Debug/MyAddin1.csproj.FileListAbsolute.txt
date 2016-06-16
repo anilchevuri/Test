@@ -1,0 +1,7 @@
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\bin\Debug\MyAddin1.dll
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\bin\Debug\MyAddin1.pdb
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\bin\Debug\MyAddin1.xml
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\obj\Debug\MyAddin1.csprojResolveAssemblyReference.cache
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\obj\Debug\MyAddin1.csproj.ResolveComReference.cache
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\obj\Debug\MyAddin1.dll
+C:\Users\ctr_achevuri\Documents\GitHub\Test\MyAddin1\MyAddin1\obj\Debug\MyAddin1.pdb
